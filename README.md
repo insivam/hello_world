@@ -1,4 +1,4 @@
 # helloworld
 <p>
-Primeiro Hello world em um site local
+Minha primeira Aplicação Spring
 </p> 
